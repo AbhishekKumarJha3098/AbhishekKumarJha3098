@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekjha3098" alt="abhishekjha3098" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abhishekjha3098" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekjha3098?logo=twitter&style=for-the-badge" alt="abhishekjha3098" /></a> </p>
-
-- 🔭 I’m currently working on **Porter Clone**
+- 🔭 I’m currently working on [Porter Clone](https://github.com/AbhishekKumarJha3098/Porter-Clone)
 
 - 📝 I regularly write articles on [https://medium.com/@abhishekjha3098_15672](https://medium.com/@abhishekjha3098_15672)
 
@@ -32,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjha3098&show_icons=true&locale=en&layout=compact" alt="abhishekjha3098" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekjha3098&show_icons=true&locale=en" alt="abhishekjha3098" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjha3098&" alt="abhishekjha3098" /></p>
