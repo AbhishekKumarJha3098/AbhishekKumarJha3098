@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h2 align="center">I am Full Stack Web-developer</h2>
+<h2 align="center">A Passionate web Developer from India</h2>
 <br/>
 
-- 🌱 I’m currently learning **React.js**
+Hi there 👋
+- 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
+- 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing
+- ⌨️ Programming: HTML, CSS, JavaScript, React, Mongoose
+
+
 
 @@ -15,7 +16,7 @@
 
