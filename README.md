@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h2 align="center">A Passionate web Developer from India</h2>
+<h2 align="center">A Passionate Web Developer from India</h2>
 <br/>
 
 Hi there 👋
@@ -9,7 +9,7 @@ Hi there 👋
 
 
 
-@@ -15,7 +16,7 @@
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
