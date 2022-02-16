@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h2 align="center">A Passionate Web Developer from India</h2>
+<h2 align="center">An efficient full-stack web developer with skills in HTML, CSS, JavaScript, and Tailwind. A self-motivated team worker looking to work in an organization where I can contribute my skills and grow in my career</h2>
 <br/>
 
 Hi there 👋
